@@ -11,14 +11,15 @@ Course professor: Andrei Dumitriu
 Task Requirements: "Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue).  The control must be done with digital electronics(aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led."
 
 Pictures of the setup:
-![b7f8b9e9-98e3-4aeb-944e-e4260f7fe9ce](https://user-images.githubusercontent.com/99658689/197361062-53204f3e-b34f-4619-b5c0-541bb6c48442.jpg)
-![541c4289-8307-4d93-943e-a141f0456f7e](https://user-images.githubusercontent.com/99658689/197361065-4734f1a1-75c0-46c6-82d4-7b6c7cbc0139.jpg)
-![02dc6eec-f226-4e7a-b506-7e89164e2909](https://user-images.githubusercontent.com/99658689/197361066-807e18ae-effc-4eeb-9697-51db8d0ee09e.jpg)
-![f22dfebf-2fe8-4b62-972e-cca2d9baecd1](https://user-images.githubusercontent.com/99658689/197361067-ed2d10cd-f074-4884-9254-b36322cb8759.jpg)
-![b128bf4b-8a96-4141-a740-38454a1f6e3b](https://user-images.githubusercontent.com/99658689/197361068-f04b71ca-1c5e-4565-8f69-07c58bb295ad.jpg)
-![1cc7c687-5a11-439f-9acf-0374c3631f9d](https://user-images.githubusercontent.com/99658689/197361069-b1e2d4fa-e1c6-48f1-9a74-ac192e90afe3.jpg)
-![851101f4-ce1f-403f-97bd-bf6543b59178](https://user-images.githubusercontent.com/99658689/197361070-ca0e6c88-79ed-49cd-9ffd-dd0ab1e8f10f.jpg)
-![3a8662dd-5f30-4371-8f24-89752af00aa3](https://user-images.githubusercontent.com/99658689/197361071-b073e61d-a1c7-42f9-ba83-6fb0a0ecb830.jpg)
+
+![b7f8b9e9-98e3-4aeb-944e-e4260f7fe9ce](https://user-images.githubusercontent.com/99658689/197361062-53204f3e-b34f-4619-b5c0-541bb6c48442.jpg width=100)
+![541c4289-8307-4d93-943e-a141f0456f7e](https://user-images.githubusercontent.com/99658689/197361065-4734f1a1-75c0-46c6-82d4-7b6c7cbc0139.jpg width=100)
+![02dc6eec-f226-4e7a-b506-7e89164e2909](https://user-images.githubusercontent.com/99658689/197361066-807e18ae-effc-4eeb-9697-51db8d0ee09e.jpg width=100)
+![f22dfebf-2fe8-4b62-972e-cca2d9baecd1](https://user-images.githubusercontent.com/99658689/197361067-ed2d10cd-f074-4884-9254-b36322cb8759.jpg width=100)
+![b128bf4b-8a96-4141-a740-38454a1f6e3b](https://user-images.githubusercontent.com/99658689/197361068-f04b71ca-1c5e-4565-8f69-07c58bb295ad.jpg width=100)
+![1cc7c687-5a11-439f-9acf-0374c3631f9d](https://user-images.githubusercontent.com/99658689/197361069-b1e2d4fa-e1c6-48f1-9a74-ac192e90afe3.jpg width=100)
+![851101f4-ce1f-403f-97bd-bf6543b59178](https://user-images.githubusercontent.com/99658689/197361070-ca0e6c88-79ed-49cd-9ffd-dd0ab1e8f10f.jpg width=100)
+![3a8662dd-5f30-4371-8f24-89752af00aa3](https://user-images.githubusercontent.com/99658689/197361071-b073e61d-a1c7-42f9-ba83-6fb0a0ecb830.jpg width=100)
 
 A video of the project in which you can see the way everything works:
 https://youtu.be/HYCs1vSOPmo
