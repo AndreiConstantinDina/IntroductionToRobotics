@@ -21,11 +21,10 @@ Pictures of the setup:
 <img src="https://user-images.githubusercontent.com/99658689/197361070-ca0e6c88-79ed-49cd-9ffd-dd0ab1e8f10f.jpg" width="360" height="640" />
 <img src="https://user-images.githubusercontent.com/99658689/197361071-b073e61d-a1c7-42f9-ba83-6fb0a0ecb830.jpg" width="360" height="640" />
   
-  <br>
-A video of the project in which you can see the way everything works:<br>
+
+A video of the project in which you can see the way everything works:
 https://youtu.be/HYCs1vSOPmo
 
-  <br>
 Source code:
 
 ```
