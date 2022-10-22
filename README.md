@@ -12,7 +12,8 @@ Task Requirements: "Use a separate potentiometer in controlling each of the colo
 
 Pictures of the setup:
 
-<img src="https://user-images.githubusercontent.com/99658689/197361062-53204f3e-b34f-4619-b5c0-541bb6c48442.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/99658689/197361062-53204f3e-b34f-4619-b5c0-541bb6c48442.jpg" width="360" height="640" />
+ 
 ![b7f8b9e9-98e3-4aeb-944e-e4260f7fe9ce](https://user-images.githubusercontent.com/99658689/197361062-53204f3e-b34f-4619-b5c0-541bb6c48442.jpg)
 ![541c4289-8307-4d93-943e-a141f0456f7e](https://user-images.githubusercontent.com/99658689/197361065-4734f1a1-75c0-46c6-82d4-7b6c7cbc0139.jpg)
 ![02dc6eec-f226-4e7a-b506-7e89164e2909](https://user-images.githubusercontent.com/99658689/197361066-807e18ae-effc-4eeb-9697-51db8d0ee09e.jpg)
