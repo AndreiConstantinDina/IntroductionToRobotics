@@ -5,7 +5,7 @@ Course professor: Andrei Dumitriu
 
 
 <details>
-<summary># Homework 1</summary>
+<summary>Homework 1</summary>
 <br>
 
 Task Requirements: "Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue).  The control must be done with digital electronics(aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led."
