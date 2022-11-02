@@ -93,10 +93,17 @@ void assignRGBtoLed(int r, int g, int b){
 
 
 <details>
-<summary>Homework 1</summary>
+<summary>Homework 2</summary>
 <br>
 
-Task Requirements: "Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue).  The control must be done with digital electronics(aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led."
+Task Requirements: 
+  Building  the  traffic  lights  for  a  crosswalk.   Using 2 LEDs to represent the traffic lights for people (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See the states it needs to go through:
+    1. State 1 (default, reinstated after state 4 ends):  green light for cars,red  light  for  people,  no  sounds.   Duration:  indefinite,  changed  bypressing the button.
+    2. State 2 (initiated by counting down 8 seconds after a button press):the  light  should  be  yellow  for  cars,  red  for  people  and  no  sounds.Duration:  3 seconds.
+    3. State 3 (initiated after state 2 ends):  red for cars, green for peopleand a beeping sound from the buzzer at a constant interval. Duration:8 seconds.
+    4. State 4 (initiated after state 3 ends):  red for cars,blinking greenfor people and a beeping sound from the buzzer,  at a constant in-terval,  faster than the beeping in state 3.  This state should last 4seconds.
+  
+  Be  careful:  pressing  the  button  in  any  state  other  than  state  1  shouldNOT yield any actions.
 
 Pictures of the setup:
 
