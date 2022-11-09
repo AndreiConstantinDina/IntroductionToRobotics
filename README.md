@@ -265,7 +265,7 @@ void loop() {
 
   
 <details>
-<summary>Homework 2</summary>
+<summary>Homework 3</summary>
 <br>
 
 Task Requirements: 
@@ -276,7 +276,6 @@ Task Requirements:
   
 Pictures of the setup:
 
-<img src="https://user-images.githubusercontent.com/99658689/200854804-1f5fb9a6-f050-40f9-b5be-187385480ab6.jpg)" width="360" height="640" />
 <img src="https://user-images.githubusercontent.com/99658689/200854800-f2460ecf-d976-42fd-bf2f-4a86a4a3bf6c.jpg" width="360" height="640" />
   
   
