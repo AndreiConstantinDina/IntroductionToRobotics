@@ -265,7 +265,9 @@ void loop() {
 
   
 <details>
-<summary>Homework 3</summary>
+<summary>
+  
+  </summary>
 <br>
 
 Task Requirements: 
@@ -669,12 +671,12 @@ int changeSegment (int currentSegment, char transition[]){
  
   
 <details>
-<summary>Homework 3</summary>
+<summary>Homework 4</summary>
 <br>
 
 Task Requirements: 
 
-TBA
+TBW
   
 Pictures of the setup:
 
